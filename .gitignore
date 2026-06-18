@@ -1,0 +1,15 @@
+# Python clutter
+__pycache__/
+*.pyc
+.env
+venv/
+.vscode/
+
+# Data and Models
+data/
+*.gz
+*.pkl
+
+# OS Files
+.DS_Store
+Thumbs.db
