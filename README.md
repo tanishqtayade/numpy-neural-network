@@ -11,6 +11,9 @@ Backpropagation Engine: Fully manual implementation of the chain rule.
 Adam Optimizer: Adaptive learning rate implementation for faster convergence.
 
 Mini-Batch Training: Efficient data handling to process large datasets without memory bottlenecks.
+
+
+
 🧠 Core Components
 1. network.py (The Engine)
 This is the heart of the framework. It acts as a container for your layers and manages the flow of data.
